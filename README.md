@@ -1,2 +1,2 @@
 # UnrealWorld
-Houdini &amp; UE4 Project Learned From Ruin Tutorial
+Houdini Project Learned From Ruin Tutorial
