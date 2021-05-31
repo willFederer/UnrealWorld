@@ -24,6 +24,9 @@ zeus.json
 .zeus.sock
 custom_plan.rb
 
+**/backup/**
+export/
+
 # simplecov
 /coverage
 
